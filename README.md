@@ -7,4 +7,4 @@ Simply include it on your HTML `<head>` and start using it
 ```html
 <link rel="stylesheet" type="text/css" href="css/plain-helper-classes.css">
 ```
-Apply one or more CSS classes to HTML elements via the 'class' attribute to quickly style it.
+Apply one or more CSS classes to HTML elements via the `class` attribute to quickly style it.
