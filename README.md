@@ -1,5 +1,5 @@
 # Plain helper classes
-A small set of very simple css classes to speed up HTML5 applications development.
+A small set of very simple css helper classes to speed up HTML5 applications development.
 
 # How to use
 
